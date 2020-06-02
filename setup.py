@@ -12,7 +12,6 @@ setup(
     author='Toby Wise',
     author_email='t.wise@ucl.ac.uk',
     install_requires=[
-        'functools32',
         'matplotlib',
         'numpy',
         'pandas',
